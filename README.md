@@ -1,5 +1,7 @@
 # Sistema de Biblioteca
 
+[![Compilar aplicación Java](https://github.com/dilanalex9077-ai/sistema-biblioteca/actions/workflows/compilar.yml/badge.svg)](https://github.com/dilanalex9077-ai/sistema-biblioteca/actions/workflows/compilar.yml)
+
 Aplicación de escritorio desarrollada en Java Swing para administrar libros, usuarios y préstamos de una biblioteca. Utiliza MySQL para la persistencia de datos y Maven para gestionar dependencias.
 
 ## Funcionalidades
